@@ -1,0 +1,59 @@
+
+
+h1 {
+	
+}
+
+td {
+	border: thin dotted gray;
+	padding: 5px;
+}
+
+th {
+	border: thin solid black;
+	background-color: #cc6600;
+}
+
+.tableStyle {
+	border-collapse: collapse;
+	background-color: white;
+}
+
+.tableStyle th {
+	color:#ffffff;background-color:#555555;border:1px solid #555555;font-size:12px;padding:3px;vertical-align:top;text-align:left;
+}
+
+#edit td {
+	border: none;
+}
+
+
+
+.cellcolor {
+	background-color: #F6F4F0;
+}
+
+#staff td {
+	border-color:#555555;
+	border-width:1px;
+	border-style: solid; 	
+}
+
+#staff td a {
+	cursor : pointer
+}
+
+a:link {
+	text-decoration:none
+}
+
+#data {
+	
+}
+
+.updateMessage {
+	color:red;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+}
